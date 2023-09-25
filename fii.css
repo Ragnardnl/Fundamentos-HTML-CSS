@@ -2,8 +2,6 @@
 
 #tudo {
     width: 60%;
-    min-width: 320px;
-    max-width: 40%;
     margin: 0 auto;
     border: 1px solid #000;
 }
@@ -22,8 +20,8 @@ body {
 }
 #tudo {
     width: 100%;
-    max-width: 2400px;
-    min-width: 64px;
+    max-width: 100%;
+    min-width: 320px;
     margin: 0 auto;
     background-color: #fff;
 }
@@ -50,12 +48,12 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 .principal {
-    width: 80%;
+    width: 70%;
     float: right;
     padding-right: 15px;
 }
 .auxiliar {
-    width: 18.3333%;
+    width: 26%;
     float: left;
     padding-left: 15px;
 }
